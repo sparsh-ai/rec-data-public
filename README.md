@@ -1,5 +1,7 @@
 # reco-data
 
+UPDATE: This repo is archived. The revised repo is at @reco-data and will be handled using DVC tool. This way, it will not put any overload on git in updating/mainting the data index.
+
 - [Amazon Clothing Shoes and Jewelry](https://drive.google.com/drive/folders/1-9QXCvTz5rxJRTgBcXpgQ_L8D8x0KLLe?usp=sharing)
 - [Amazon Movies and TV](https://drive.google.com/drive/folders/1-9XmgdNJnrzcQttc5OW2hqwcZmmJz0Jf?usp=sharing)
 - [Amazon-Book](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Books.csv)
